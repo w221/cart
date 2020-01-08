@@ -89,7 +89,7 @@
 				// default options
 				settings = {
 					checkout				: { type: "PayPal", email: "you@yours.com" },
-					currency				: "UAH",
+					currency				: "BTC",
 					language				: "english-us",
 
 					cartStyle				: "div",
