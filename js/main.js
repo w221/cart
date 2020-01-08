@@ -6,7 +6,7 @@ simpleCart({
   },
 
   // tax: 0.075,
-  // currency: "THB",
+ currency: "THB",
 
   cartStyle: "table",
 
