@@ -16,6 +16,4 @@ featured_image_path: /images/products/rtl-sdr.v3.pro/RTL-SDR-RTL2832-SDR-R820T2-
 facebook_image_path:
 ---
 
-Sacha’s elegant antlers have never been seen on such a beautiful t-shirt. Wear this majestic beast and feel all your problems float away.
-
-Slim Fit, 5oz 100% Cotton T-Shirt.
+SDR-приймник. Новый.
